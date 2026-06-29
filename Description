@@ -1,0 +1,16 @@
+Hi Every one today I have made my C++ final project , A console based / terminal baed C++ 2d game named terminal orguilt. 
+This game is inspired by a famous game named "Space Shooter".
+As a Semester level project the complexity f the game is slighly minimal and as it is my firt project so complexuty is according to it.
+From this project I have learned the use of array and 2D Arrays in C++. How arras are handeled. What is index/position in array.
+Learned the purpose and use of some in built Libraries like Windows.h, Conio.h, C.string etc.
+File handling is not used for printing the maze , instead 2D array is used.
+This game is made by me as my semester level final project at university of engeeniering and technology lahore.
+In this game I have implemented the concepts of array, loops, if else statements. 
+In this game grid is printed using 2 D array and that array is fixed. 
+In this game player is printed using ascii art and the position of player and enemy both are decided by maze size. 
+Enemes are printed randmly by the random function. 
+The position of enemy and player firing is determined by player and enemy positions.
+Gotoxy function is used for position.
+Windows.h is used for colors and gotoxy.
+string used for handling string statements. 
+Player movement is carried out by GetAsyncKeyState(KEY) function.
